@@ -13,10 +13,8 @@ main{
 }
 
 div.menu{
-    background-color: rgb(204, 203, 144);
-    width: 900px;
-    height: 50px;
-    margin-top:3px;
+    background-color: #c5c5b2;
+    padding: 3px;
 
 
 
@@ -30,10 +28,12 @@ li{
     margin: 10px;
     font-weight: bold;
     color: rgb(78, 78, 78);
+    
 }
 
 div.sobre{
     background-color: white;
+    padding: 15px;
 }
 
 p.direitos{
@@ -45,9 +45,11 @@ p.direitos{
 h4{
     font-weight: bold;
     color: rgb(78, 78, 78);
+    font-size: 1.5em;
   
 }
 
 a{
     text-decoration: none;
+   
 }
