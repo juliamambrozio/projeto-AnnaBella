@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #d2d2c1 url('imagens/fundo.png');
+    font: 16px;
+}
+
+main{
+    width: 900px;
+}
+
+div.menu{
+    background-color: rgb(204, 203, 144);
+    width: 900px;
+    height: 50px;
+    margin-top:3px;
+
+
+
+}
+ul{
+    display: flex;
+    
+}
+li{
+    list-style: none;
+    margin: 10px;
+    font-weight: bold;
+    color: rgb(78, 78, 78);
+}
+
+div.sobre{
+    background-color: white;
+}
+
+p.direitos{
+ font-weight: bold;
+ color: rgb(78, 78, 78);
+ text-align: center;
+}
+
+h4{
+    font-weight: bold;
+    color: rgb(78, 78, 78);
+  
+}
+
+a{
+    text-decoration: none;
+}
